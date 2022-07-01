@@ -12,7 +12,6 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/lucianopetillo)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/lucianopetillo)
 
 ### Languages and Tools:
@@ -28,6 +27,10 @@
 <br />
 
 ---
-
-
+[website]: https://linkedin.com/in/lucianopetillo
+[linkedin]: https://linkedin.com/in/lucianopetillo
+[webdevplaylist]: https://www.youtube.com/
+[jsplaylist]: https://www.youtube.com/
+[cssplaylist]: https://www.youtube.com/
+[reactplaylist]: https://www.youtube.com/
 
