@@ -1,13 +1,10 @@
 # Hi there, I'm Luciano
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Full Stack Web Developer.
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🌱 I’m currently learning JavaScript & React
+- 🥅 2022 Goals: Achieve deep knowledge in the languages learned and continue learning about AWS.
+- ⚡ Fun fact: I love to do sports Runnign, swimming, gym. Play guitar / drums
 
 ### Connect with me:
 
@@ -29,8 +26,8 @@
 ---
 [website]: https://linkedin.com/in/lucianopetillo
 [linkedin]: https://linkedin.com/in/lucianopetillo
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+[webdevplaylist]: https://linkedin.com/in/lucianopetillo
+[jsplaylist]: https://linkedin.com/in/lucianopetillo
+[cssplaylist]: https://linkedin.com/in/lucianopetillo
+[reactplaylist]: https://linkedin.com/in/lucianopetillo
 
