@@ -2,9 +2,9 @@
 
 ## I'm a Full Stack Web Developer.
 
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning JavaScript & React.
 - 🥅 2022 Goals: Achieve deep knowledge in the languages learned and continue learning about AWS.
-- ⚡ Fun fact: I love to do sports Runnign, swimming, gym. Play guitar / drums
+- ⚡ Fun fact: I love to do sports, Runnign, swimming, gym. And play guitar.
 
 ### Connect with me:
 
