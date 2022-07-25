@@ -1,5 +1,4 @@
-# Hi there, I'm Luciano
-
+# Luciano Petillo
 ## I'm a Full Stack Web Developer.
 
 - 🌱 I’m currently learning JavaScript & React.
